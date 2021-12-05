@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2021-12-05)
+### Fix
+* install project before running tests ([`506c4b6`](https://github.com/MicaelJarniac/timematic/commit/506c4b6d9013dc264563d167b29ce91d2f82bd0a))
+
 ## v0.1.1 (2021-12-05)
 ### Fix
 * add PyPI token ([`1570eba`](https://github.com/MicaelJarniac/timematic/commit/1570ebabdc2fd317879dcaa9c58aee10cc9d87d7))
