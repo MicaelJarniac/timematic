@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2021-12-05)
+### Fix
+* add PyPI token ([`1570eba`](https://github.com/MicaelJarniac/timematic/commit/1570ebabdc2fd317879dcaa9c58aee10cc9d87d7))
+
 ## v0.1.0 (2021-12-05)
 ### Feature
 * initial release ([`711de99`](https://github.com/MicaelJarniac/timematic/commit/711de997284a2728a211693ad0bce918cb5dc578))
