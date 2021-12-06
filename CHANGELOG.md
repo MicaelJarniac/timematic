@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.5 (2021-12-06)
+### Fix
+* use strings for Python versions ([`bdc8daa`](https://github.com/MicaelJarniac/timematic/commit/bdc8daad99159c7a5c10714f1033046ccf3e2f02))
+
 ## v0.1.4 (2021-12-06)
 ### Fix
 * Python versions ([`6d82dd0`](https://github.com/MicaelJarniac/timematic/commit/6d82dd0db090272708d0cdf7443060af8863a147))
