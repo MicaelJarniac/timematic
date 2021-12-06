@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.3 (2021-12-06)
+### Fix
+* install project as editable in workflows ([`dcaecf8`](https://github.com/MicaelJarniac/timematic/commit/dcaecf83673f051130af9287b1d63825ca9390b9))
+
 ## v0.1.2 (2021-12-05)
 ### Fix
 * install project before running tests ([`506c4b6`](https://github.com/MicaelJarniac/timematic/commit/506c4b6d9013dc264563d167b29ce91d2f82bd0a))
