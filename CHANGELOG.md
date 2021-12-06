@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.4 (2021-12-06)
+### Fix
+* Python versions ([`6d82dd0`](https://github.com/MicaelJarniac/timematic/commit/6d82dd0db090272708d0cdf7443060af8863a147))
+
 ## v0.1.3 (2021-12-06)
 ### Fix
 * install project as editable in workflows ([`dcaecf8`](https://github.com/MicaelJarniac/timematic/commit/dcaecf83673f051130af9287b1d63825ca9390b9))
