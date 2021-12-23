@@ -39,7 +39,6 @@ We also recommend that you read [How to Contribute to Open Source](https://opens
             - [`flake8-black`][flake8-black]
             - [`flake8-isort`][flake8-isort]
             - [`flake8-docstrings`][flake8-docstrings]
-          - [`mypy` (mirror)][pre-commit_mypy]
           - [`pre-commit-hooks`][pre-commit-hooks]
             - `check-toml`
             - `check-yaml`
@@ -53,6 +52,7 @@ We also recommend that you read [How to Contribute to Open Source](https://opens
       - [Codecov][codecov]
         - [Action][codecov-action]
         - [timematic][codecov-timematic]
+      - [Nox][nox] <sup>[config][noxfile_py]</sup>
     - Type checking
       - [Mypy][mypy]
         - [Mypy Extensions][mypy-extensions]
@@ -78,6 +78,7 @@ We also recommend that you read [How to Contribute to Open Source](https://opens
       - [`.editorconfig`][_editorconfig]
       - [`docs/conf.py`][docs_conf_py]
       - [`docs/wordlist.txt`][docs_wordlist_txt]
+      - [`noxfile.py`][noxfile_py]
   - Standards
     - Commits
       - [Conventional Commits][conventionalcommits]
@@ -107,6 +108,7 @@ We also recommend that you read [How to Contribute to Open Source](https://opens
 [_editorconfig]: .editorconfig
 [docs_conf_py]: docs/conf.py
 [docs_wordlist_txt]: docs/wordlist.txt
+[noxfile_py]: noxfile.py
 
 [setup_py]: setup.py
 
@@ -120,7 +122,6 @@ We also recommend that you read [How to Contribute to Open Source](https://opens
 [flake8-docstrings]: https://gitlab.com/pycqa/flake8-docstrings
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [pre-commit-hooks]: https://github.com/pre-commit/pre-commit-hooks
-[pre-commit_mypy]: https://github.com/pre-commit/mirrors-mypy
 [rstcheck]: https://github.com/myint/rstcheck
 [semantic-pull-requests]: https://github.com/zeke/semantic-pull-requests
 [semantic-release]: https://github.com/semantic-release/semantic-release
@@ -132,6 +133,7 @@ We also recommend that you read [How to Contribute to Open Source](https://opens
 [pytest]: https://github.com/pytest-dev/pytest
 [pytest-cov]: https://github.com/pytest-dev/pytest-cov
 [coveragepy]: https://github.com/nedbat/coveragepy
+[nox]: https://github.com/theacodes/nox
 [sphinx]: https://www.sphinx-doc.org
 [furo]: https://github.com/pradyunsg/furo
 [sphinxcontrib-spelling]: https://github.com/sphinx-contrib/spelling

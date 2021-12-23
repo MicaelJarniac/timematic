@@ -1,0 +1,17 @@
+name: Test with Nox
+
+on:
+  workflow_run:
+    workflows: ["pre-commit"]
+    branches: [develop, main]
+    types:
+      - completed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: excitedleigh/setup-nox@v2.0.0
+    - run: nox
