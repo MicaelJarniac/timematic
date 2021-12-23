@@ -6,7 +6,7 @@
 
   | | ![Badges][label-badges] |
   |--|--|
-  | ![Build][label-build] | [![Python package][badge-actions]][actions] [![semantic-release][badge-semantic-release]][semantic-release] [![PyPI][badge-pypi]][pypi] [![Read the Docs][badge-docs]][docs] |
+  | ![Build][label-build] | [![Nox][badge-actions]][actions] [![semantic-release][badge-semantic-release]][semantic-release] [![PyPI][badge-pypi]][pypi] [![Read the Docs][badge-docs]][docs] |
   | ![Tests][label-tests] | [![coverage][badge-coverage]][coverage] [![pre-commit][badge-pre-commit]][pre-commit] |
   | ![Standards][label-standards] | [![SemVer 2.0.0][badge-semver]][semver] [![Conventional Commits][badge-conventional-commits]][conventional-commits] |
   | ![Code][label-code] | [![Code style: black][badge-black]][Black] [![Imports: isort][badge-isort]][isort] [![Checked with mypy][badge-mypy]][mypy] |
@@ -26,7 +26,7 @@
 [label-repo]: https://img.shields.io/badge/%F0%9F%93%81-repo-darkblue?style=flat-square
 
 <!-- Build -->
-[badge-actions]: https://img.shields.io/github/workflow/status/MicaelJarniac/timematic/Python%20package/main?style=flat-square
+[badge-actions]: https://img.shields.io/github/workflow/status/MicaelJarniac/timematic/Test%20with%20Nox/main?style=flat-square
 [actions]: https://github.com/MicaelJarniac/timematic/actions
 [badge-semantic-release]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079?style=flat-square
 [semantic-release]: https://github.com/semantic-release/semantic-release

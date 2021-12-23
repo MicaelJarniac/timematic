@@ -2,7 +2,7 @@ name: Semantic Release
 
 on:
   workflow_run:
-    workflows: ["Python package"]
+    workflows: ["Test with Nox"]
     branches: [main]
     types:
       - completed
